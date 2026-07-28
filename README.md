@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=100000&color=00D8FF&center=true&vCenter=true&width=700&height=60&lines=Ravi+Raushan+Vishwakarma" alt="Name"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=8AB4F8&center=true&vCenter=true&width=750&height=40&lines=Data+Scientist+%7C+ML+Engineer+%7C+GenAI+Builder;Building+RAG+%26+LLM-powered+applications;IEEE+IC3+2025+Published+Researcher+%F0%9F%93%9C;Quantum+ML+%2B+GANs+for+Intrusion+Detection" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=950&height=50&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+Large+Language+Models;Building+AI-powered+Applications+with+Python;Cybersecurity+%7C+Network+Intrusion+Detection;IEEE+IC3+2025+Published+Researcher;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
@@ -28,15 +28,15 @@
 
 🎓 **B.Tech Computer Science** @ Jaypee Institute of Information Technology, Noida — *2022 to 2026*
 
-💼 **Data Science Intern @ Primerose Security** *(ongoing)* — building a RAG-powered support chatbot that cut response time by **35%** and lifted resolution accuracy by **25%**
+💼 **Data Science Intern @ Primerose Security** — building a RAG-powered support chatbot that cut response time by **35%** and lifted resolution accuracy by **25%**
 
 🔬 Published researcher — **IEEE IC3 2025** — on GAN-based Network Intrusion Detection
 
-🧠 Deep focus on **Generative AI, RAG pipelines, LangChain, and Quantum Machine Learning**
+🧠 Interested in **Data Science, Machine Learning, Deep Learning, Generative AI, and AI-powered applications**
 
-🌱 Currently leveling up in **Advanced LLMs, AI Agents, LangGraph, and Cloud AI**
+🌱 Expanding my expertise in **LLMs, RAG, AI Agents, LangGraph, and Cloud AI**
 
-💬 Ask me about **RAG systems, GANs, Network Security ML, or building production ML pipelines**
+💬 Happy to discuss **Python, SQL, Machine Learning, RAG, Generative AI, and Cybersecurity**
 
 </td>
 <td width="45%" valign="top">
@@ -173,7 +173,7 @@ End-to-end pipeline predicting anxiety/depression from behavioral data. Benchmar
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-`ANN` · `RNN` · `LSTM` · `GRU` · `LLM` · `NLP` · `RAG Pipelines` · `Transformers` · `Generative AI`
+`Data Science` · `Deep Learning` · `Machine Learning` · `Generative AI`
 
 **Web Development**
 <br/>
@@ -319,11 +319,4 @@ Open to collaboration on **Data Science, Machine Learning, and Generative AI** p
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer"/>
 
-<!--
-SETUP NOTES:
-1. Save this as README.md in a repo named exactly "RRV07" — required for GitHub to render it as your profile page.
-2. Snake animation: add the snake.yml workflow to .github/workflows/ in the RRV07/RRV07 repo, set Settings → Actions → General → Workflow permissions to "Read and write," and run it once manually from the Actions tab.
-3. The "Conditional GANs" project links to your profile page since the exact repo URL wasn't provided — swap in the real one if it differs.
-4. CHANGE MADE: removed the flat/empty "Contribution Graph" line-chart widget (it was showing a boring straight line at 0 — either a rendering artifact or genuinely low recent public commit activity, either way it looked bad). Replaced it with a new "👨‍💻 When I'm Not Debugging..." section using a second coding-themed GIF from the same reliable GitHub-hosted CDN (user-images.githubusercontent.com — this is GitHub's own image host, so it won't randomly break like the third-party stat generators did) plus the existing quotes strip moved up next to it for a nice paired look.
-5. All stat/trophy/pin cards pull live data from your GitHub account automatically — nothing else to configure. Note: the shion.dev-hosted stat/pin cards can occasionally show broken images under load (this is the free shared-server issue covered earlier) — if that happens again, ask for the shields.io-only fallback version.
--->
+
